@@ -1,6 +1,6 @@
 # PowerBI---Alura-Challenge-Marketing
-Dashboard created during the Alura school challenge to develop skills involving Power BI. During the development of this dashboard, several data treatments were carried out and new metrics were created using DAX language.\**
-ACTIVITY DETAILS\**
+Dashboard created during the Alura school challenge to develop skills involving Power BI. During the development of this dashboard, several data treatments were carried out and new metrics were created using DAX language. \**
+ACTIVITY DETAILS \**
 Table Name: Tabelas - Tabela Dispositivos\**
 Table Format: JSON\**
 Table Description: Table with data from device-based marketing campaigns\**
